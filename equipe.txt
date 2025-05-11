@@ -1,0 +1,4 @@
+# Projeto Final POO
+Natiel Silva - cadastro.py / disciplina.py
+Herbert Xavier - pessoa.py / menus.py
+Gustavo Dantas - persistencia.py / relatorio.py
