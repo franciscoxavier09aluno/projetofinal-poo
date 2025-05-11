@@ -10,7 +10,7 @@ Este projeto simula um sistema básico de controle acadêmico em Python com menu
 
 ## Como executar
 
-Certifique-se de que todos os arquivos `.py` e '.txt' estão na mesma pasta. Depois, execute o arquivo `menus.py` com:
+Certifique-se de que todos os arquivos `.py` e `.txt` estão na mesma pasta. Depois, execute o arquivo `menus.py` com:
 
 ```
 python menus.py
